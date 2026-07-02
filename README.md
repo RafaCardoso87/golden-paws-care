@@ -1,8 +1,11 @@
-# Golden Paws & Care - Final Version
+# Golden Paws & Care 2.0
 
-Upload these files to replace the current GitHub Pages site:
+Final premium version.
+
+Upload and replace:
 - index.html
 - style.css
 - README.md
 
-This version removes the broken/black SVG issue and uses a simple clean logo badge compatible with iPhone Safari.
+Phone configured:
++1 (510) 300-5795
