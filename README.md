@@ -1,15 +1,13 @@
-# Golden Paws & Care - Upload Ready
+# Golden Paws & Care - Clean Professional Version
 
-Everything is in the same folder, ready for GitHub upload.
+Upload these files in the root of the GitHub repository:
 
-Upload/replace these files in the root of your repository:
 - index.html
 - style.css
 - README.md
-- logo.svg
 - rafael.jpg
 
-Do not upload a ZIP to GitHub Pages. Extract the ZIP first and upload the files.
+No folders. No nested files.
 
 Phone configured:
 +1 (510) 300-5795
