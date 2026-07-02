@@ -1,17 +1,15 @@
-# Golden Paws & Care - Complete Project
+# Golden Paws & Care - Upload Ready
 
-Professional website for both:
-- Dog Walking / Pet Sitting
-- Non-medical Elder Companion Care
+Everything is in the same folder, ready for GitHub upload.
 
-Files to upload to GitHub:
+Upload/replace these files in the root of your repository:
 - index.html
 - style.css
 - README.md
-- assets/rafael.jpg
+- logo.svg
+- rafael.jpg
 
-Important:
-Upload the whole assets folder too, because the site uses Rafael's photo.
+Do not upload a ZIP to GitHub Pages. Extract the ZIP first and upload the files.
 
 Phone configured:
 +1 (510) 300-5795
