@@ -1,20 +1,8 @@
-# Golden Paws & Care
+# Golden Paws & Care - Final Version
 
-Premium website for Golden Paws & Care.
+Upload these files to replace the current GitHub Pages site:
+- index.html
+- style.css
+- README.md
 
-Services:
-- Dog Walking
-- Pet Sitting
-- Elder Companion/Caregiver support
-
-Phone configured:
-+1 (510) 300-5795
-
-To update your existing GitHub site:
-1. Open your golden-paws-care repository on GitHub.
-2. Upload and replace:
-   - index.html
-   - style.css
-   - README.md
-3. Commit changes.
-4. Wait 1–3 minutes and refresh your live site.
+This version removes the broken/black SVG issue and uses a simple clean logo badge compatible with iPhone Safari.
